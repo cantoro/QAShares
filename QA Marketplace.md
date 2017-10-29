@@ -1,4 +1,4 @@
-###QAShares will have a marketplace for users to ask questions and receive expert answers. This will marketplace will work according to the following logic: -
+QAShares will have a marketplace for users to ask questions and receive expert answers. This will marketplace will work according to the following logic: -
 
 1.	A user, herein known as the questioner, puts forward a question and assigns a value in QAS and a timeframe.
 
